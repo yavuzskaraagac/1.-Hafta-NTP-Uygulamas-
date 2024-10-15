@@ -1,0 +1,7 @@
+C:\Users\yavuz\Source\Repos\AsalSayiToplami\AsalSayiToplami\obj\Debug\AsalSayiToplami.csprojAssemblyReference.cache
+C:\Users\yavuz\Source\Repos\AsalSayiToplami\AsalSayiToplami\obj\Debug\AsalSayiToplami.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Source\Repos\AsalSayiToplami\AsalSayiToplami\bin\Debug\AsalSayiToplami.exe.config
+C:\Users\yavuz\Source\Repos\AsalSayiToplami\AsalSayiToplami\bin\Debug\AsalSayiToplami.exe
+C:\Users\yavuz\Source\Repos\AsalSayiToplami\AsalSayiToplami\bin\Debug\AsalSayiToplami.pdb
+C:\Users\yavuz\Source\Repos\AsalSayiToplami\AsalSayiToplami\obj\Debug\AsalSayiToplami.exe
+C:\Users\yavuz\Source\Repos\AsalSayiToplami\AsalSayiToplami\obj\Debug\AsalSayiToplami.pdb
